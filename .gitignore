@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local task data may contain personal information
+tasks.json
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
